@@ -1,0 +1,13 @@
+figure.facecolor : "#151320"
+text.color : "#FFFF80"
+font.size : 12
+axes.facecolor : "#22212C"
+axes.labelcolor : "#FFFF80"
+axes.labelsize : 14
+axes.titlesize : 16
+axes.grid : True
+grid.alpha : 0.4
+grid.color : "#373252"
+grid.linestyle : -
+xtick.color : "#A95B86"
+ytick.color : "#7FFBE6"
